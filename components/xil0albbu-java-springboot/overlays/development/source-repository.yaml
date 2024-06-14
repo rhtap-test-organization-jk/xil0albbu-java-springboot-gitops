@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xil0albbu-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/xil0albbu-java-springboot
